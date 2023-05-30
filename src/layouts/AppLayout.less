@@ -1,0 +1,64 @@
+.app {
+    height: calc(100vh - 50px);
+    // margin-top: 25px;
+    overflow: hidden;
+    .header {
+        position: fixed;
+        top: 0px;
+        right: 0px;
+        left: 0px;
+        z-index: 999;
+        box-shadow: rgba(0, 0, 0, 0.08) 0px 1px 4px 0px;
+        background-color: rgb(255, 255, 255);
+        height: 50px;
+    }
+
+    .body {
+        position: relative;
+        height: 100%;
+
+        .bodyLayout {
+            position: relative;
+            display: flex;
+            flex-flow: row nowrap;
+            place-content: flex-start;
+            align-items: flex-start;
+            height: calc(100vh);
+            -webkit-font-smoothing: antialiased; //字体抗锯齿渲染
+
+            :global {
+                .sider-nav-menu-wrapper-light .bu-info-wrapper .bu-name-icon-wrapper {
+                    font-weight: 600;
+                }
+            }
+        }
+
+        .main {
+            flex: 1 1 auto;
+            height: 100%;
+            overflow-y: auto;
+            // background-color: rgba(0, 0, 0, 0.08);
+
+            :global {
+                .ant-pro-table-list-toolbar-container {
+                    padding: 8px 0 !important;
+                }
+            }
+
+            .breadcrumbs {
+                height: 32px;
+
+                :global {
+
+                    .ant-breadcrumb {
+                        ol {
+                            height: 32px;
+                            line-height: 32px;
+                        }
+                    }
+                }
+
+            }
+        }
+    }
+}

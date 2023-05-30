@@ -1,0 +1,143 @@
+.wayBodyGroup {
+    padding: 10px 0;
+    .wayList {
+        width: 98%;
+        padding: 14px 24px;
+        margin-left: 2px;
+        height: 200px;
+        background-color: #fff;
+        margin-bottom: 9px;
+        position: relative;
+        display: flex;
+        align-items: center;
+        border: 1px solid rgba(233, 233, 233, 1);
+        &:hover {
+            box-shadow: 0 0 5px #ffc500;
+            border: none;
+        }
+        .wayLeft {
+            width: 248px;
+            height: 100%;
+            float: left;
+            padding-bottom: 40px;
+            position: relative;
+            cursor: pointer;
+            .l_ref {
+                min-width: 51%;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                .icon {
+                    font-size: 24px;
+                    color: #000;
+                }
+                .l_wayno {
+                    color: #6294c6;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                    font-weight: 600;
+                }
+            }
+
+            .l_body {
+                width: 100%;
+                border-bottom: dashed 1px rgba(204, 204, 204, 1);
+                padding-bottom: 0.5rem;
+                .l_item {
+                    padding-top: 5px;
+                    line-height: 1.2;
+                    font-size: 14px;
+                    font-family: PingFangSC-Semibold;
+                    font-weight: 600;
+                    width: 100%;
+                    display: flex;
+                    align-items: center;
+                    .l_item_wayNo {
+                        padding-bottom: 5px;
+                        color: #666;
+                    }
+
+                    .l_item_wayNo_ex {
+                        padding-left: 5px;
+                        font-weight: 500;
+                        color: #6294c6;
+                    }
+
+                    .l_item_tit {
+                        padding-right: 10px;
+                        width: 60px;
+                        color: #222;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        white-space: nowrap;
+                    }
+                    .l_item_body {
+                        flex: 1;
+                        color: #666;
+                        text-align: right;
+                        text-overflow: -o-ellipsis-lastline;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        white-space: nowrap;
+                        // display: -webkit-box;
+                        -webkit-line-clamp: 1;
+                        -webkit-box-orient: vertical;
+                        -webkit-box-orient: vertical;
+                    }
+                }
+            }
+            .l_footer {
+                padding-top: 9px;
+                .l_item {
+                    display: flex;
+                    justify-content: space-between;
+                    font-size: 12px;
+                    color: #444444;
+                    font-weight: 400;
+                    .l_item_tit {
+                        padding-right: 10px;
+                        width: 60px;
+                        color: #222;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        white-space: nowrap;
+                    }
+                    .l_item_body {
+                        flex: 1;
+                        color: #666;
+                        text-align: right;
+                        // text-overflow: -o-ellipsis-lastline;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        white-space: nowrap;
+                        // display: -webkit-box;
+                        -webkit-line-clamp: 1;
+                        -webkit-box-orient: vertical;
+                        -webkit-box-orient: vertical;
+                    }
+                }
+            }
+        }
+    }
+    // 查看更多
+    .seeMoreBlock {
+        display: flex;
+        justify-content: center;
+        .more_item {
+            position: relative;
+            width: 120px;
+            height: 30px;
+            line-height: 30px;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+            text-align: center;
+            box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.2);
+        }
+    }
+}
+:global {
+    .ant-tooltip-content {
+        top: -20px;
+    }
+}

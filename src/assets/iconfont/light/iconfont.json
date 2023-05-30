@@ -1,0 +1,191 @@
+{
+    "id": "2032052",
+    "name": "运输查单有色图标",
+    "font_family": "iconfont",
+    "css_prefix_text": "icon",
+    "description": "",
+    "glyphs": [
+        {
+            "icon_id": "10446408",
+            "name": "B_点击类图标_右拉、跳转-01",
+            "font_class": "Right",
+            "unicode": "e70d",
+            "unicode_decimal": 59149
+        },
+        {
+            "icon_id": "10677227",
+            "name": "A_进出口货物明细_1-01",
+            "font_class": "Cargo",
+            "unicode": "e748",
+            "unicode_decimal": 59208
+        },
+        {
+            "icon_id": "14211483",
+            "name": "A_金额-01",
+            "font_class": "Freight",
+            "unicode": "e7b8",
+            "unicode_decimal": 59320
+        },
+        {
+            "icon_id": "15880710",
+            "name": "A_线路-01",
+            "font_class": "Routes",
+            "unicode": "e7ce",
+            "unicode_decimal": 59342
+        },
+        {
+            "icon_id": "16069646",
+            "name": "A_milestones-01",
+            "font_class": "Events",
+            "unicode": "e7df",
+            "unicode_decimal": 59359
+        },
+        {
+            "icon_id": "16666039",
+            "name": "A_货架2-01",
+            "font_class": "Products",
+            "unicode": "e7f0",
+            "unicode_decimal": 59376
+        },
+        {
+            "icon_id": "10446409",
+            "name": "B_附件文件_1-01",
+            "font_class": "zip",
+            "unicode": "e70e",
+            "unicode_decimal": 59150
+        },
+        {
+            "icon_id": "10446410",
+            "name": "B_附件文件_2-01",
+            "font_class": "xlsx",
+            "unicode": "e70f",
+            "unicode_decimal": 59151
+        },
+        {
+            "icon_id": "10446412",
+            "name": "B_附件文件_3-01",
+            "font_class": "ppt",
+            "unicode": "e711",
+            "unicode_decimal": 59153
+        },
+        {
+            "icon_id": "10446413",
+            "name": "B_附件文件_6-01",
+            "font_class": "img",
+            "unicode": "e712",
+            "unicode_decimal": 59154
+        },
+        {
+            "icon_id": "10446414",
+            "name": "B_附件文件_4-01",
+            "font_class": "doc",
+            "unicode": "e713",
+            "unicode_decimal": 59155
+        },
+        {
+            "icon_id": "10446415",
+            "name": "B_附件文件_5-01",
+            "font_class": "pdf",
+            "unicode": "e714",
+            "unicode_decimal": 59156
+        },
+        {
+            "icon_id": "10726172",
+            "name": "A_通过_g",
+            "font_class": "Success",
+            "unicode": "e755",
+            "unicode_decimal": 59221
+        },
+        {
+            "icon_id": "10726232",
+            "name": "A_不通过_r",
+            "font_class": "Error",
+            "unicode": "e756",
+            "unicode_decimal": 59222
+        },
+        {
+            "icon_id": "10805365",
+            "name": "A_待审批_1-01",
+            "font_class": "Padding",
+            "unicode": "e757",
+            "unicode_decimal": 59223
+        },
+        {
+            "icon_id": "11065936",
+            "name": "A_需求追踪_1-01",
+            "font_class": "Adress",
+            "unicode": "e766",
+            "unicode_decimal": 59238
+        },
+        {
+            "icon_id": "14211628",
+            "name": "Juslink-b",
+            "font_class": "Juslink-b",
+            "unicode": "e752",
+            "unicode_decimal": 59218
+        },
+        {
+            "icon_id": "14230679",
+            "name": "A_未提交-01",
+            "font_class": "NoUp",
+            "unicode": "e7bc",
+            "unicode_decimal": 59324
+        },
+        {
+            "icon_id": "15351744",
+            "name": "C_碳排放",
+            "font_class": "Co2",
+            "unicode": "e781",
+            "unicode_decimal": 59265
+        },
+        {
+            "icon_id": "10446280",
+            "name": "A_订单_1",
+            "font_class": "Related",
+            "unicode": "e697",
+            "unicode_decimal": 59031
+        },
+        {
+            "icon_id": "10446290",
+            "name": "A_集装箱信息_1-01",
+            "font_class": "Containers",
+            "unicode": "e6a1",
+            "unicode_decimal": 59041
+        },
+        {
+            "icon_id": "10446323",
+            "name": "A_文件包_1-01",
+            "font_class": "Documents",
+            "unicode": "e6c2",
+            "unicode_decimal": 59074
+        },
+        {
+            "icon_id": "10446346",
+            "name": "A_运输单_1-01",
+            "font_class": "Transport",
+            "unicode": "e6d9",
+            "unicode_decimal": 59097
+        },
+        {
+            "icon_id": "10446401",
+            "name": "B_点击类图标_下拉收起-01",
+            "font_class": "top",
+            "unicode": "e706",
+            "unicode_decimal": 59142
+        },
+        {
+            "icon_id": "10446403",
+            "name": "B_点击类图标_下拉选项-01",
+            "font_class": "Bottom",
+            "unicode": "e708",
+            "unicode_decimal": 59144
+        },
+        {
+            "icon_id": "10446407",
+            "name": "B_点击类图标_左拉、返回-01",
+            "font_class": "Left",
+            "unicode": "e70c",
+            "unicode_decimal": 59148
+        }
+    ]
+}

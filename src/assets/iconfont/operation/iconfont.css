@@ -1,0 +1,419 @@
+@font-face {
+  font-family: "operation"; /* Project id 2526274 */
+  src: url('iconfont.woff2?t=1636434655055') format('woff2'),
+       url('iconfont.woff?t=1636434655055') format('woff'),
+       url('iconfont.ttf?t=1636434655055') format('truetype');
+}
+
+.operation {
+  font-family: "operation" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.operation-Add2:before {
+  content: "\e96a";
+}
+
+.operation-Administration:before {
+  content: "\e95b";
+}
+
+.operation-a-VectorStroke:before {
+  content: "\e686";
+}
+
+.operation-Check:before {
+  content: "\e685";
+}
+
+.operation-TrashSimple:before {
+  content: "\e683";
+}
+
+.operation-X:before {
+  content: "\e67e";
+}
+
+.operation-Copy-1:before {
+  content: "\e67b";
+}
+
+.operation-rrows-left-right:before {
+  content: "\e67c";
+}
+
+.operation-triangle-down:before {
+  content: "\e677";
+}
+
+.operation-more-top:before {
+  content: "\e676";
+}
+
+.operation-set-up2:before {
+  content: "\e905";
+}
+
+.operation-More-2:before {
+  content: "\e904";
+}
+
+.operation-Technician-allocation:before {
+  content: "\e8fa";
+}
+
+.operation-container:before {
+  content: "\e8f3";
+}
+
+.operation-urgent-order:before {
+  content: "\e8d7";
+}
+
+.operation-more:before {
+  content: "\e8d1";
+}
+
+.operation-delete-circular-empty:before {
+  content: "\e8cd";
+}
+
+.operation-arrow-down:before {
+  content: "\e675";
+}
+
+.operation-arrow-right:before {
+  content: "\e674";
+}
+
+.operation-copy:before {
+  content: "\e8cc";
+}
+
+.operation-no-attention:before {
+  content: "\e8c9";
+}
+
+.operation-attention:before {
+  content: "\e8ca";
+}
+
+.operation-reach:before {
+  content: "\e8cb";
+}
+
+.operation-close-circular-fill:before {
+  content: "\e8c8";
+}
+
+.operation-qr-code:before {
+  content: "\e8ba";
+}
+
+.operation-advanced-search:before {
+  content: "\e8bb";
+}
+
+.operation-news:before {
+  content: "\e8bc";
+}
+
+.operation-question:before {
+  content: "\e8bd";
+}
+
+.operation-switch:before {
+  content: "\e8be";
+}
+
+.operation-copy-sheet:before {
+  content: "\e8bf";
+}
+
+.operation-trajectory:before {
+  content: "\e8c0";
+}
+
+.operation-right:before {
+  content: "\e8c1";
+}
+
+.operation-off:before {
+  content: "\e8c2";
+}
+
+.operation-add-information:before {
+  content: "\e8c3";
+}
+
+.operation-exception-list:before {
+  content: "\e8c4";
+}
+
+.operation-idea-feedback:before {
+  content: "\e8c5";
+}
+
+.operation-computer:before {
+  content: "\e8c6";
+}
+
+.operation-audit-sheet:before {
+  content: "\e8c7";
+}
+
+.operation-ascending-order:before {
+  content: "\e8b5";
+}
+
+.operation-descending-order:before {
+  content: "\e8b6";
+}
+
+.operation-explain:before {
+  content: "\e8b7";
+}
+
+.operation-arrow-left:before {
+  content: "\e8b8";
+}
+
+.operation-search:before {
+  content: "\e8b9";
+}
+
+.operation-add-one:before {
+  content: "\e8b4";
+}
+
+.operation-export:before {
+  content: "\e8b0";
+}
+
+.operation-import:before {
+  content: "\e8b1";
+}
+
+.operation-download:before {
+  content: "\e8b2";
+}
+
+.operation-upload:before {
+  content: "\e8b3";
+}
+
+.operation-report-list:before {
+  content: "\e8af";
+}
+
+.operation-password-reset:before {
+  content: "\e8ae";
+}
+
+.operation-printing:before {
+  content: "\e8a4";
+}
+
+.operation-presented-ourselves:before {
+  content: "\e8a5";
+}
+
+.operation-report-form:before {
+  content: "\e8a6";
+}
+
+.operation-gps-positioning:before {
+  content: "\e8a7";
+}
+
+.operation-indexes:before {
+  content: "\e8a8";
+}
+
+.operation-triangle-right:before {
+  content: "\e8a9";
+}
+
+.operation-historical-track:before {
+  content: "\e8aa";
+}
+
+.operation-folder:before {
+  content: "\e8ab";
+}
+
+.operation-character-avatar:before {
+  content: "\e8ac";
+}
+
+.operation-download-circular:before {
+  content: "\e8ad";
+}
+
+.operation-set-up:before {
+  content: "\e8a2";
+}
+
+.operation-calendar:before {
+  content: "\e8a3";
+}
+
+.operation-checked:before {
+  content: "\e89d";
+}
+
+.operation-send-out:before {
+  content: "\e89e";
+}
+
+.operation-top-back:before {
+  content: "\e89f";
+}
+
+.operation-starting-point:before {
+  content: "\e8a0";
+}
+
+.operation-enclosure:before {
+  content: "\e8a1";
+}
+
+.operation-accept:before {
+  content: "\e89c";
+}
+
+.operation-reject:before {
+  content: "\e89a";
+}
+
+.operation-pass:before {
+  content: "\e89b";
+}
+
+.operation-delete-circular-fill:before {
+  content: "\e897";
+}
+
+.operation-add-circular-fill:before {
+  content: "\e898";
+}
+
+.operation-reduce-circular-fill:before {
+  content: "\e899";
+}
+
+.operation-save:before {
+  content: "\e87a";
+}
+
+.operation-edit:before {
+  content: "\e87b";
+}
+
+.operation-delete:before {
+  content: "\e87c";
+}
+
+.operation-screened:before {
+  content: "\e87e";
+}
+
+.operation-split:before {
+  content: "\e87f";
+}
+
+.operation-upload-fill:before {
+  content: "\e880";
+}
+
+.operation-withdraw:before {
+  content: "\e881";
+}
+
+.operation-re-examined:before {
+  content: "\e882";
+}
+
+.operation-download-fill:before {
+  content: "\e883";
+}
+
+.operation-sort-down:before {
+  content: "\e884";
+}
+
+.operation-Sort-default:before {
+  content: "\e885";
+}
+
+.operation-more-right:before {
+  content: "\e886";
+}
+
+.operation-home-page:before {
+  content: "\e887";
+}
+
+.operation-more-down:before {
+  content: "\e888";
+}
+
+.operation-sort-up:before {
+  content: "\e889";
+}
+
+.operation-all:before {
+  content: "\e88a";
+}
+
+.operation-advanced-search-flll:before {
+  content: "\e88b";
+}
+
+.operation-view-details:before {
+  content: "\e88c";
+}
+
+.operation-more-left:before {
+  content: "\e88d";
+}
+
+.operation-other-vertical:before {
+  content: "\e88e";
+}
+
+.operation-cancel:before {
+  content: "\e88f";
+}
+
+.operation-order:before {
+  content: "\e890";
+}
+
+.operation-other-transverse:before {
+  content: "\e891";
+}
+
+.operation-home-cmi:before {
+  content: "\e892";
+}
+
+.operation-other-transverse-circular-fill:before {
+  content: "\e893";
+}
+
+.operation-home-vmi:before {
+  content: "\e894";
+}
+
+.operation-more-up:before {
+  content: "\e895";
+}
+
+.operation-table-settings:before {
+  content: "\e896";
+}
+

@@ -1,0 +1,8 @@
+[defaults]
+url = https://sentry-dev.sccpcloud.com/
+org = jusda
+project = material-visual-fe
+[log]
+level = debug
+[auth]
+token = eec459f345b64dfeb9ccea8dd9c36400ed92893701a74e73ae5c09d255dcca6d

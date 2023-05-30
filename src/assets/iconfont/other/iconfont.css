@@ -1,0 +1,439 @@
+@font-face {
+  font-family: "other"; /* Project id 2526282 */
+  src: url('iconfont.woff2?t=1680140722124') format('woff2'),
+       url('iconfont.woff?t=1680140722124') format('woff'),
+       url('iconfont.ttf?t=1680140722124') format('truetype');
+}
+
+.other {
+  font-family: "other" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.other-picture:before {
+  content: "\e7b3";
+}
+
+.other-MORE2-01:before {
+  content: "\e9e6";
+}
+
+.other-MORE:before {
+  content: "\e9e7";
+}
+
+.other-arrowL:before {
+  content: "\e9e8";
+}
+
+.other-SailingDate:before {
+  content: "\e9e5";
+}
+
+.other-Quick2:before {
+  content: "\e9d5";
+}
+
+.other-Quick1:before {
+  content: "\e9d6";
+}
+
+.other-brands:before {
+  content: "\e9cb";
+}
+
+.other-dealers:before {
+  content: "\e9cc";
+}
+
+.other-retailers:before {
+  content: "\e9cd";
+}
+
+.other-distributors:before {
+  content: "\e9ce";
+}
+
+.other-Suppliers:before {
+  content: "\e9cf";
+}
+
+.other-customers:before {
+  content: "\e9d0";
+}
+
+.other-Estimate2:before {
+  content: "\e9c7";
+}
+
+.other-Estimate1:before {
+  content: "\e9b9";
+}
+
+.other-Booking-space:before {
+  content: "\e9b1";
+}
+
+.other-review:before {
+  content: "\e9b0";
+}
+
+.other-B_ye:before {
+  content: "\e9a4";
+}
+
+.other-B_zi:before {
+  content: "\e9a3";
+}
+
+.other-B_wai-01:before {
+  content: "\e7be";
+}
+
+.other-B_nei-01:before {
+  content: "\e7bf";
+}
+
+.other-gongzuotai:before {
+  content: "\e973";
+}
+
+.other-Tobe-issued:before {
+  content: "\e967";
+}
+
+.other-Waiting-list:before {
+  content: "\e966";
+}
+
+.other-Finish:before {
+  content: "\e962";
+}
+
+.other-TobeAllocated:before {
+  content: "\e963";
+}
+
+.other-Not-submitted:before {
+  content: "\e964";
+}
+
+.other-Rejected:before {
+  content: "\e965";
+}
+
+.other-Inspect:before {
+  content: "\e950";
+}
+
+.other-pass1:before {
+  content: "\e94d";
+}
+
+.other-pass2:before {
+  content: "\e94c";
+}
+
+.other-close:before {
+  content: "\e93d";
+}
+
+.other-Frame:before {
+  content: "\e687";
+}
+
+.other-ppt:before {
+  content: "\e67c";
+}
+
+.other-rar:before {
+  content: "\e67d";
+}
+
+.other-unknown:before {
+  content: "\e67e";
+}
+
+.other-music:before {
+  content: "\e681";
+}
+
+.other-txt:before {
+  content: "\e682";
+}
+
+.other-doc:before {
+  content: "\e683";
+}
+
+.other-exc:before {
+  content: "\e684";
+}
+
+.other-pdf:before {
+  content: "\e685";
+}
+
+.other-file:before {
+  content: "\e686";
+}
+
+.other-a-Frame86:before {
+  content: "\e67f";
+}
+
+.other-a-Frame87:before {
+  content: "\e680";
+}
+
+.other-Hander:before {
+  content: "\e935";
+}
+
+.other-Cube:before {
+  content: "\e67a";
+}
+
+.other-attachment-txt:before {
+  content: "\e92c";
+}
+
+.other-Clear:before {
+  content: "\e92a";
+}
+
+.other-Folder:before {
+  content: "\e92b";
+}
+
+.other-jianhuodan-01:before {
+  content: "\e929";
+}
+
+.other-complete:before {
+  content: "\e924";
+}
+
+.other-processing:before {
+  content: "\e925";
+}
+
+.other-submit-fail:before {
+  content: "\e91f";
+}
+
+.other-submit-successfully:before {
+  content: "\e920";
+}
+
+.other-time-out:before {
+  content: "\e921";
+}
+
+.other-submitting:before {
+  content: "\e922";
+}
+
+.other-complete-material:before {
+  content: "\e923";
+}
+
+.other-upload-failed:before {
+  content: "\e91e";
+}
+
+.other-add-more:before {
+  content: "\e91d";
+}
+
+.other-information:before {
+  content: "\e917";
+}
+
+.other-english:before {
+  content: "\e918";
+}
+
+.other-chinese:before {
+  content: "\e919";
+}
+
+.other-help-center:before {
+  content: "\e91a";
+}
+
+.other-news:before {
+  content: "\e91b";
+}
+
+.other-qr-code:before {
+  content: "\e91c";
+}
+
+.other-pcs:before {
+  content: "\e914";
+}
+
+.other-kps:before {
+  content: "\e912";
+}
+
+.other-scan-code:before {
+  content: "\e913";
+}
+
+.other-new:before {
+  content: "\e915";
+}
+
+.other-department:before {
+  content: "\e916";
+}
+
+.other-message-unread:before {
+  content: "\e910";
+}
+
+.other-message-read:before {
+  content: "\e911";
+}
+
+.other-vnd:before {
+  content: "\e908";
+}
+
+.other-hkd:before {
+  content: "\e909";
+}
+
+.other-eur:before {
+  content: "\e90c";
+}
+
+.other-gbp:before {
+  content: "\e90d";
+}
+
+.other-ntd:before {
+  content: "\e90e";
+}
+
+.other-usd:before {
+  content: "\e90f";
+}
+
+.other-attachment-xlsx:before {
+  content: "\e900";
+}
+
+.other-attachment-picture:before {
+  content: "\e901";
+}
+
+.other-attachment-pdf:before {
+  content: "\e902";
+}
+
+.other-attachment-not-uploaded:before {
+  content: "\e903";
+}
+
+.other-attachment-ppt:before {
+  content: "\e904";
+}
+
+.other-attachment-doc:before {
+  content: "\e905";
+}
+
+.other-attachment-compressed-package:before {
+  content: "\e906";
+}
+
+.other-attachment-unknown:before {
+  content: "\e907";
+}
+
+.other-online-tools-phone:before {
+  content: "\e8fe";
+}
+
+.other-online-tools:before {
+  content: "\e8ff";
+}
+
+.other-juslink-black:before {
+  content: "\e8fc";
+}
+
+.other-juslink-white:before {
+  content: "\e8fd";
+}
+
+.other-jusda-white:before {
+  content: "\e8fa";
+}
+
+.other-jusda-black:before {
+  content: "\e8fb";
+}
+
+.other-shipping-notice:before {
+  content: "\e8f3";
+}
+
+.other-outbound-delivery:before {
+  content: "\e8f4";
+}
+
+.other-port-warehouse-transit:before {
+  content: "\e8f5";
+}
+
+.other-receiving-warehousing:before {
+  content: "\e8f6";
+}
+
+.other-delivery-schedule:before {
+  content: "\e8f7";
+}
+
+.other-in-transit:before {
+  content: "\e8f8";
+}
+
+.other-customs-tracking:before {
+  content: "\e8f9";
+}
+
+.other-unusual:before {
+  content: "\e8f0";
+}
+
+.other-delay:before {
+  content: "\e8f1";
+}
+
+.other-urgent:before {
+  content: "\e8f2";
+}
+
+.other-unusual-2:before {
+  content: "\e927";
+}
+
+.other-delay-2:before {
+  content: "\e928";
+}
+
+.other-urgent-2:before {
+  content: "\e926";
+}
+
+.other-im:before {
+  content: "\e87e";
+}
+

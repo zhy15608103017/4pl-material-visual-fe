@@ -1,0 +1,352 @@
+{
+    "id": "2032158",
+    "name": "运输查单单色图标",
+    "font_family": "iconfont",
+    "css_prefix_text": "icon",
+    "description": "",
+    "glyphs": [
+        {
+            "icon_id": "19583830",
+            "name": "B_装车-01",
+            "font_class": "B_zhuangche-01",
+            "unicode": "e842",
+            "unicode_decimal": 59458
+        },
+        {
+            "icon_id": "19583831",
+            "name": "B_空车-01",
+            "font_class": "B_kongche-01",
+            "unicode": "e843",
+            "unicode_decimal": 59459
+        },
+        {
+            "icon_id": "19657717",
+            "name": "B_yichang--2",
+            "font_class": "RETURNED",
+            "unicode": "e846",
+            "unicode_decimal": 59462
+        },
+        {
+            "icon_id": "19583681",
+            "name": "A_揽派送-01",
+            "font_class": "SST_SHP",
+            "unicode": "e861",
+            "unicode_decimal": 59489
+        },
+        {
+            "icon_id": "19583682",
+            "name": "A_揽收-01",
+            "font_class": "SST_PUP",
+            "unicode": "e862",
+            "unicode_decimal": 59490
+        },
+        {
+            "icon_id": "19583683",
+            "name": "A_海关-01",
+            "font_class": "CLEARED",
+            "unicode": "e863",
+            "unicode_decimal": 59491
+        },
+        {
+            "icon_id": "16118897",
+            "name": "B_离开提货地-01",
+            "font_class": "SST_LPP",
+            "unicode": "e7e1",
+            "unicode_decimal": 59361
+        },
+        {
+            "icon_id": "16226428",
+            "name": "B_意见反馈-01",
+            "font_class": "Edit",
+            "unicode": "e7e2",
+            "unicode_decimal": 59362
+        },
+        {
+            "icon_id": "10446393",
+            "name": "B_操作类图标_上传-01",
+            "font_class": "Upload",
+            "unicode": "e6fe",
+            "unicode_decimal": 59134
+        },
+        {
+            "icon_id": "10446394",
+            "name": "B_操作类图标_下载-01",
+            "font_class": "Download",
+            "unicode": "e6ff",
+            "unicode_decimal": 59135
+        },
+        {
+            "icon_id": "10446401",
+            "name": "B_点击类图标_下拉收起-01",
+            "font_class": "Top",
+            "unicode": "e706",
+            "unicode_decimal": 59142
+        },
+        {
+            "icon_id": "10446403",
+            "name": "B_点击类图标_下拉选项-01",
+            "font_class": "Bottom",
+            "unicode": "e708",
+            "unicode_decimal": 59144
+        },
+        {
+            "icon_id": "10446407",
+            "name": "B_点击类图标_左拉、返回-01",
+            "font_class": "Left",
+            "unicode": "e70c",
+            "unicode_decimal": 59148
+        },
+        {
+            "icon_id": "10446408",
+            "name": "B_点击类图标_右拉、跳转-01",
+            "font_class": "Right",
+            "unicode": "e70d",
+            "unicode_decimal": 59149
+        },
+        {
+            "icon_id": "11137632",
+            "name": "B_留言页_2-01",
+            "font_class": "B_liuyanye_-4",
+            "unicode": "e77a",
+            "unicode_decimal": 59258
+        },
+        {
+            "icon_id": "13683411",
+            "name": "A_历史轨迹2-01",
+            "font_class": "PlayS",
+            "unicode": "e7af",
+            "unicode_decimal": 59311
+        },
+        {
+            "icon_id": "13683412",
+            "name": "A_历史轨迹1-01",
+            "font_class": "Play",
+            "unicode": "e7b0",
+            "unicode_decimal": 59312
+        },
+        {
+            "icon_id": "14554297",
+            "name": "B_展开-01",
+            "font_class": "More",
+            "unicode": "e7c0",
+            "unicode_decimal": 59328
+        },
+        {
+            "icon_id": "15485635",
+            "name": "供应商-01",
+            "font_class": "Supplier",
+            "unicode": "e7cb",
+            "unicode_decimal": 59339
+        },
+        {
+            "icon_id": "15485636",
+            "name": "客户-01",
+            "font_class": "Kehu",
+            "unicode": "e7cc",
+            "unicode_decimal": 59340
+        },
+        {
+            "icon_id": "15897672",
+            "name": "B_通知方-01",
+            "font_class": "Notice",
+            "unicode": "e7cf",
+            "unicode_decimal": 59343
+        },
+        {
+            "icon_id": "15897675",
+            "name": "B_委托方-01",
+            "font_class": "Consignor",
+            "unicode": "e7d0",
+            "unicode_decimal": 59344
+        },
+        {
+            "icon_id": "15940393",
+            "name": "B_收货方-01",
+            "font_class": "Consignee",
+            "unicode": "e7d1",
+            "unicode_decimal": 59345
+        },
+        {
+            "icon_id": "15940394",
+            "name": "B_发货方-01",
+            "font_class": "Shipper",
+            "unicode": "e7d2",
+            "unicode_decimal": 59346
+        },
+        {
+            "icon_id": "16442184",
+            "name": "B_金额-01",
+            "font_class": "SettlementParty",
+            "unicode": "e7e7",
+            "unicode_decimal": 59367
+        },
+        {
+            "icon_id": "16481816",
+            "name": "A_我的反馈-01",
+            "font_class": "A_wodefankui-01",
+            "unicode": "e7e9",
+            "unicode_decimal": 59369
+        },
+        {
+            "icon_id": "16641145",
+            "name": "A_轨迹-01",
+            "font_class": "Guiji",
+            "unicode": "e7ed",
+            "unicode_decimal": 59373
+        },
+        {
+            "icon_id": "16664709",
+            "name": "A_货架-01",
+            "font_class": "Products",
+            "unicode": "e7ef",
+            "unicode_decimal": 59375
+        },
+        {
+            "icon_id": "16795556",
+            "name": "C_帮助-01",
+            "font_class": "C_bangzhu-01",
+            "unicode": "e7ee",
+            "unicode_decimal": 59374
+        },
+        {
+            "icon_id": "1048888",
+            "name": "错误",
+            "font_class": "Wrong",
+            "unicode": "e629",
+            "unicode_decimal": 58921
+        },
+        {
+            "icon_id": "1164945",
+            "name": "地球",
+            "font_class": "earth",
+            "unicode": "e62e",
+            "unicode_decimal": 58926
+        },
+        {
+            "icon_id": "1983835",
+            "name": "中国地图",
+            "font_class": "china",
+            "unicode": "e62f",
+            "unicode_decimal": 58927
+        },
+        {
+            "icon_id": "10446362",
+            "name": "B_陆运侧面-01",
+            "font_class": "SST_TDE",
+            "unicode": "e6df",
+            "unicode_decimal": 59103
+        },
+        {
+            "icon_id": "10446368",
+            "name": "B_ALL-01",
+            "font_class": "TPM_ALL",
+            "unicode": "e6e5",
+            "unicode_decimal": 59109
+        },
+        {
+            "icon_id": "12667615",
+            "name": "B_空运侧面-01",
+            "font_class": "TPM_AIR",
+            "unicode": "e721",
+            "unicode_decimal": 59169
+        },
+        {
+            "icon_id": "12667616",
+            "name": "B_铁运侧面-01",
+            "font_class": "TPM_RAIL",
+            "unicode": "e722",
+            "unicode_decimal": 59170
+        },
+        {
+            "icon_id": "12667617",
+            "name": "B_陆运侧面-01",
+            "font_class": "TPM_ROAD",
+            "unicode": "e723",
+            "unicode_decimal": 59171
+        },
+        {
+            "icon_id": "12667618",
+            "name": "B_海运侧面-01",
+            "font_class": "TPM_SEA",
+            "unicode": "e724",
+            "unicode_decimal": 59172
+        },
+        {
+            "icon_id": "12767034",
+            "name": "B_运输侧面-01",
+            "font_class": "TPM_EXPRESS",
+            "unicode": "e726",
+            "unicode_decimal": 59174
+        },
+        {
+            "icon_id": "15955871",
+            "name": "B_接单-01",
+            "font_class": "SST_BIN",
+            "unicode": "e7d5",
+            "unicode_decimal": 59349
+        },
+        {
+            "icon_id": "15955874",
+            "name": "B_抵达始发港-01",
+            "font_class": "SST_POL",
+            "unicode": "e7d7",
+            "unicode_decimal": 59351
+        },
+        {
+            "icon_id": "15955875",
+            "name": "B_已发运-01",
+            "font_class": "SST_VDP",
+            "unicode": "e7d8",
+            "unicode_decimal": 59352
+        },
+        {
+            "icon_id": "15955877",
+            "name": "B_抵达-01",
+            "font_class": "SST_VAR",
+            "unicode": "e7d9",
+            "unicode_decimal": 59353
+        },
+        {
+            "icon_id": "15955884",
+            "name": "B_离开目的港-01",
+            "font_class": "SST_LPD",
+            "unicode": "e7da",
+            "unicode_decimal": 59354
+        },
+        {
+            "icon_id": "15955885",
+            "name": "B_已送达-01",
+            "font_class": "SST_CDL",
+            "unicode": "e7db",
+            "unicode_decimal": 59355
+        },
+        {
+            "icon_id": "15955890",
+            "name": "B_已完成-01",
+            "font_class": "SST_BCL",
+            "unicode": "e7dc",
+            "unicode_decimal": 59356
+        },
+        {
+            "icon_id": "15970166",
+            "name": "B_装车-01",
+            "font_class": "SST_TLO",
+            "unicode": "e7dd",
+            "unicode_decimal": 59357
+        },
+        {
+            "icon_id": "15970167",
+            "name": "B_空车-01",
+            "font_class": "SST_ETA",
+            "unicode": "e7de",
+            "unicode_decimal": 59358
+        },
+        {
+            "icon_id": "16234417",
+            "name": "B_联运-01",
+            "font_class": "TPM_COMBO",
+            "unicode": "e7e3",
+            "unicode_decimal": 59363
+        }
+    ]
+}

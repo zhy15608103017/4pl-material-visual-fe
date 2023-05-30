@@ -1,0 +1,54 @@
+.InventoryInformationBox{
+    :global{
+        .ant-table-thead{
+            .ant-table-cell[style="text-align: left;"]{
+                    // color: red;
+                .ant-table-column-sorters{
+                    .ant-table-column-title{
+                     flex: 0 1 auto;
+                    }
+                }
+            }
+        }
+        .ant-table-column-sorters {
+            display: flex;
+            justify-content: flex-start;
+            // .ant-table-column-sorter{
+            //     display: block;
+            // }
+        }
+        .ant-table-column-title{
+            display: block
+        }
+        .ant-table-thead tr .ant-table-cell {
+            white-space: nowrap;
+            // padding-right: 8%;
+            &:first-child{
+                // padding-left: 8%;
+                // padding-right: 0%;
+                // padding: 16px 0px;
+                // padding-left: 6vw;
+                text-align: center !important;
+            }
+            &:last-child{
+                // padding: 16px 3vw;
+              
+            }
+          
+        }
+        .ant-table-tbody tr .ant-table-cell {
+            // white-space: nowrap;
+            // overflow: hidden;
+            // text-overflow: ellipsis;
+            // padding-right: 8%;
+            // &:first-child{
+            //     padding: 16px 0px;
+            //     padding-left: 6vw;
+            // }
+            &:last-child{
+                // padding: 16px 3vw;
+            }
+          
+        }
+    }
+}

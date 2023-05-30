@@ -1,0 +1,78 @@
+{
+  "private": true,
+  "name": "4pl-material-visual-fe",
+  "scripts": {
+    "start": "max dev",
+    "build": "max build",
+    "postinstall": "max setup",
+    "postbuild": "rimraf ./build/**/*.map",
+    "prettier": "prettier --write '**/*.{js,jsx,tsx,ts,less,md,json}'",
+    "test": "umi-test",
+    "test:coverage": "umi-test --coverage",
+    "prepare": "husky install",
+    "check": "pre-commit-hook check",
+    "recheck": "pre-commit-hook check recheck"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,jsx,less,md,json}": [
+      "prettier --write"
+    ],
+    "*.ts?(x)": [
+      "prettier --parser=typescript --write"
+    ]
+  },
+  "dependencies": {
+    "@ant-design/pro-components": "1.1.9",
+    "@ant-design/pro-table": "2.76.4",
+    "@jusda-tools/action-decorator": "0.1.48",
+    "@jusda-tools/auth-component": "0.0.79",
+    "@jusda-tools/auth-tools": "0.1.13",
+    "@jusda-tools/jusda-file-upload": "^0.1.19",
+    "@jusda-tools/jusda-header": "0.2.4",
+    "@jusda-tools/jusda-pro-table-umi4": "0.0.2",
+    "@jusda-tools/language-control-panel": "0.3.16",
+    "@jusda-tools/pollingdownload": "0.0.22",
+    "@jusda-tools/sentry-tools": "0.0.14",
+    "@jusda-tools/sider-nav-menus": "0.0.33",
+    "@jusda-tools/unified-upload": "0.0.18",
+    "@jusda-tools/web-api-client": "0.0.16",
+    "@sentry/tracing": "6.19.4",
+    "@umijs/max": "4.0.51",
+    "antd": "4.24.5",
+    "classnames": "2.3.1",
+    "dayjs": "1.11.0",
+    "echarts": "5.4.1",
+    "echarts-for-react": "3.0.2",
+    "exceljs": "4.3.0",
+    "file-saver": "2.0.5",
+    "json-bigint": "1.0.0",
+    "lint-staged": "10.5.3",
+    "lodash": "4.17.21",
+    "mockjs": "1.1.0",
+    "qiankun": "2.8.4",
+    "query-string": "8.1.0",
+    "rc-field-form": "1.27.0",
+    "react": "18.2.0",
+    "react-awesome-swiper": "1.4.16",
+    "react-dom": "18.2.0",
+    "wujie-react": "^1.0.16",
+    "yorkie": "2.0.0"
+  },
+  "devDependencies": {
+    "@jusda-tools/jusda-publicmethod": "0.0.8",
+    "@jusda-tools/pre-commit-hook": "0.0.24",
+    "@sentry/browser": "7.8.0",
+    "@sentry/cli": "1.70.0",
+    "@sentry/webpack-plugin": "1.20.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "husky": "8.0.1",
+    "prettier": "^2.7.1",
+    "prettier-plugin-organize-imports": "^2",
+    "prettier-plugin-packagejson": "^2",
+    "rimraf": "3.0.2"
+  }
+}
